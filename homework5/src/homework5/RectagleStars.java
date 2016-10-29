@@ -4,7 +4,7 @@ public class RectagleStars {
 	 int size;
         void input(){
         	Scanner s=new Scanner(System.in);
-    		System.out.print("Á¤»ç°¢Çü Å©±âÀÔ·Â:");
+    		System.out.print("ì •ì‚¬ê°í˜• í¬ê¸°ì…ë ¥ : ");
     		this.size=s.nextInt();
          
     		print();
