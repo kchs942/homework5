@@ -7,7 +7,7 @@ public class DiamondStars {
 	  void input(){
       	
 		  Scanner s=new Scanner(System.in);
-  		System.out.print("´ÙÀÌ¾Æ¸óµå Å©±âÀÔ·Â:");
+  		System.out.print("ë‹¤ì´ì•„ëª¬ë“œì˜ í¬ê¸°ì…ë ¥ :");
   		this.size=s.nextInt();
        
   		print();
