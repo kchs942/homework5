@@ -6,7 +6,7 @@ public class IsoscelesTriangleStars {
 		int size;
 	  void input(){
 			Scanner s=new Scanner(System.in);
-    		System.out.print("ÀÌµîº¯»ï°¢Çü ³ôÀÌÀÔ·Â:");
+    		System.out.print("ì´ë“±ë³€ì‚¼ê°í˜• ë†’ì´ì…ë ¥ : ");
     		this.size=s.nextInt();
          
     		print();
